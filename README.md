@@ -8,3 +8,4 @@ General settings
     mkdir -p "$1" && cd "$1"
   }
 3. source ~/.zshrc
+4. Then, you can use mkcd `new_directory` to create and change 
